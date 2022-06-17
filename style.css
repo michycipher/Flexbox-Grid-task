@@ -236,6 +236,7 @@ nav ul li a:hover {
 .grid-container .a {
     background: chocolate;
     grid-area: a;
+    padding: 8rem;
 }
 
 .grid-container .b {
